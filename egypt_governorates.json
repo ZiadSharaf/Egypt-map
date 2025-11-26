@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "name": "Cairo" }, "geometry": { "type": "Point", "coordinates": [31.2357, 30.0444] } },
+    { "type": "Feature", "properties": { "name": "Alexandria" }, "geometry": { "type": "Point", "coordinates": [29.9187, 31.2001] } },
+    { "type": "Feature", "properties": { "name": "Giza" }, "geometry": { "type": "Point", "coordinates": [31.1313, 30.0131] } },
+    { "type": "Feature", "properties": { "name": "Qalyubia" }, "geometry": { "type": "Point", "coordinates": [31.2050, 30.1552] } },
+    { "type": "Feature", "properties": { "name": "Dakahlia" }, "geometry": { "type": "Point", "coordinates": [31.0500, 31.2167] } },
+    { "type": "Feature", "properties": { "name": "Sharqia" }, "geometry": { "type": "Point", "coordinates": [31.4167, 30.6833] } },
+    { "type": "Feature", "properties": { "name": "Port Said" }, "geometry": { "type": "Point", "coordinates": [32.2736, 31.2653] } },
+    { "type": "Feature", "properties": { "name": "Suez" }, "geometry": { "type": "Point", "coordinates": [32.5498, 29.9668] } },
+    { "type": "Feature", "properties": { "name": "Asyut" }, "geometry": { "type": "Point", "coordinates": [31.1815, 27.1800] } },
+    { "type": "Feature", "properties": { "name": "Luxor" }, "geometry": { "type": "Point", "coordinates": [32.6396, 25.6872] } },
+    { "type": "Feature", "properties": { "name": "Aswan" }, "geometry": { "type": "Point", "coordinates": [32.8998, 24.0908] } },
+    { "type": "Feature", "properties": { "name": "Red Sea" }, "geometry": { "type": "Point", "coordinates": [34.8859, 26.7156] } },
+    { "type": "Feature", "properties": { "name": "Matrouh" }, "geometry": { "type": "Point", "coordinates": [27.2243, 31.3543] } },
+    { "type": "Feature", "properties": { "name": "Minya" }, "geometry": { "type": "Point", "coordinates": [30.7757, 28.1145] } },
+    { "type": "Feature", "properties": { "name": "Qena" }, "geometry": { "type": "Point", "coordinates": [32.7166, 26.1647] } },
+    { "type": "Feature", "properties": { "name": "Beheira" }, "geometry": { "type": "Point", "coordinates": [30.4636, 31.1031] } },
+    { "type": "Feature", "properties": { "name": "Gharbia" }, "geometry": { "type": "Point", "coordinates": [30.8750, 30.8750] } },
+    { "type": "Feature", "properties": { "name": "Monufia" }, "geometry": { "type": "Point", "coordinates": [30.9941, 30.5200] } },
+    { "type": "Feature", "properties": { "name": "Kafr El Sheikh" }, "geometry": { "type": "Point", "coordinates": [31.1100, 31.1083] } },
+    { "type": "Feature", "properties": { "name": "Ismailia" }, "geometry": { "type": "Point", "coordinates": [32.2653, 30.5965] } }
+  ]
+}
